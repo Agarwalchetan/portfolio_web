@@ -68,5 +68,3 @@ To personalize this portfolio:
 This project is licensed under the MIT License. You are free to use, modify, and distribute it as per the terms of the license.
 
 ---
-
-Feel free to contact me for questions or suggestions! 😊
